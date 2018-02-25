@@ -6,3 +6,5 @@
 而且这两个文件都是默认存在的，路径不需要特别的配置就可以直接引用了；<br>
 3.Application启动类跟controller包等平行；<br>
 4.springboot默认缓存templates下的文件，如果html页面修改后，看不到修改的效果，设置spring.thymeleaf.cache = false即可。<br>
+
+**具体参考博客：http://blog.csdn.net/isea533/article/details/50412212**
